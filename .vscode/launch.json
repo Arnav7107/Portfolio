@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ARNAV/OneDrive/Desktop/Web Development/portfolio",
-      "program": "c:/Users/ARNAV/OneDrive/Desktop/Web Development/portfolio/build/Debug/outDebug",
+      "cwd": "c:/Users/ARNAV/Onedrive/Desktop/Web development/portfolio",
+      "program": "c:/Users/ARNAV/Onedrive/Desktop/Web development/portfolio/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
